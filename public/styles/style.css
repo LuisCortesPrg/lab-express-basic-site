@@ -19,11 +19,14 @@ p {
 li {
     list-style: none;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin: 100;
 }
 
 div {
-    /* display: flex;
-    justify-content: ; */
-    /* column-count: 3;
-   justify-content: space-between; */
+   /* display: flex; */
+   column-count: 3;
+   column-width: 1em;
+   text-transform: uppercase;
+   
 }
