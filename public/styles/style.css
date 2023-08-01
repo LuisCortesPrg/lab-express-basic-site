@@ -1,0 +1,29 @@
+body {
+
+/* display: flex; */
+text-align: center;
+background-color: lightpink;
+
+}
+
+h1 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    /* display: flex;
+    justify-content: ; */
+    /* column-count: 3;
+   justify-content: space-between; */
+}
